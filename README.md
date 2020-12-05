@@ -25,11 +25,11 @@ Prior to the 2016 presidential election, polling largely failed to predict the u
 * Potentially introduce natural language processing for greater classification accuracy
 
 ## Repository files
-* [Presentation slide](https://github.com/ShivramR/DERI-2019/Presentation_Slide.pdf)
-* [Research paper](https://github.com/ShivramR/DERI-2019/Research_Paper.pdf)
-* [Iterative classifier](https://github.com/ShivramR/DERI-2019/IterativeClassifier.java)
+* [Presentation slide](https://github.com/ShivramR/DERI-2019/blob/main/Presentation_Slide.pdf)
+* [Research paper](https://github.com/ShivramR/DERI-2019/blob/main/Research_Paper.pdf)
+* [Iterative classifier](https://github.com/ShivramR/DERI-2019/blob/main/IterativeClassifier.java)
   * A Java script that implements the political seed-based classification algorithm described in [here](https://github.com/ShivramR/DERI-2019/Research_Paper.pdf)
-* [Loop runner](https://github.com/ShivramR/DERI-2019/Loop_run.java)
+* [Loop runner](https://github.com/ShivramR/DERI-2019/blob/main/Loop_run.java)
   * Another Java script used for multiple runs of the algorithm to measure deviance and verify precision
-* [Common users finder](https://github.com/ShivramR/DERI-2019/common.py)
+* [Common users finder](https://github.com/ShivramR/DERI-2019/blob/main/common.py)
   * A Python script that uses Pandas and a config.txt file to find common users in all three years of 2017-2019 of the given user set
